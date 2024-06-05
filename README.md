@@ -1,4 +1,4 @@
-<span style="color:blue; font-size: 36px;"> Exploratory Data Analysis Projects
+# Exploratory Data Analysis Projects
 
 Throughout my studies in the master's program in **Data Science & Business Analytics**, I have carried out various projects related to exploratory data analysis. Here, I present several of them :computer: 
 
